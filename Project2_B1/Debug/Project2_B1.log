@@ -1,0 +1,18 @@
+﻿빌드 시작: 2016-05-23 오후 1:18:57
+     1>2 노드의 "D:\lab_dh\2016봄\정특성\Project2_B1\Project2_B1\Project2_B1.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt B1LeakageCorrection.cpp
+         B1LeakageCorrection.cpp
+     1>d:\lab_dh\2016봄\정특성\project2_b1\project2_b1\b1leakagecorrection.cpp(112): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>d:\lab_dh\2016봄\정특성\project2_b1\project2_b1\b1leakagecorrection.cpp(102): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+     1>d:\lab_dh\2016봄\정특성\project2_b1\project2_b1\b1leakagecorrection.cpp(214): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+     1>d:\lab_dh\2016봄\정특성\project2_b1\project2_b1\b1leakagecorrection.cpp(228): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\lab_dh\2016봄\정특성\Project2_B1\Debug\Project2_B1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\lab_dh\2016봄\정특성\Project2_B1\Debug\Project2_B1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\lab_dh\2016봄\정특성\Project2_B1\Debug\Project2_B1.lib" /MACHINE:X86 Debug\B1LeakageCorrection.obj
+         Debug\main.obj
+         Project2_B1.vcxproj -> D:\lab_dh\2016봄\정특성\Project2_B1\Debug\Project2_B1.exe
+     1>"D:\lab_dh\2016봄\정특성\Project2_B1\Project2_B1\Project2_B1.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.46
